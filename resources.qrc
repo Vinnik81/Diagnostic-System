@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/icon_pump_green.svg</file>
+        <file>Images/icon_pump_grey.svg</file>
+        <file>Images/icon_pump_red.svg</file>
+        <file>Images/icon_pump_yellow.svg</file>
+    </qresource>
+</RCC>
